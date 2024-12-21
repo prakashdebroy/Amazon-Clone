@@ -53,4 +53,4 @@ To check this out visit: https://prakashdebroy.github.io/amazon-clone/
 Contributions are welcome! Please feel free to fork the repository and submit a pull request with your improvements.
 
 ## Note
-  **Only Optimized for Desktop and Laptops**
+  **Only Optimized for Desktops and Laptops**
