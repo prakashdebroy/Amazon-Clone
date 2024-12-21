@@ -2,6 +2,8 @@
 
 A static Amazon Clone built using HTML and CSS. This project is a simple replica of the Amazon homepage, designed to practice and demonstrate web development skills with a focus on design and user interface layout.
 
+To check this out visit: https://prakashdebroy.github.io/amazon-clone/
+
 ## Features
 
 - **Static Website:** No backend functionality, purely front-end development.
